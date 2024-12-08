@@ -3,10 +3,10 @@ from flask.views import MethodView
 
 # Dummy database to hold movie examples
 movies = {
-    "123": {"title": "Top Gun: Maverick", "description": "Fighter planes"},
+    "123": {"title": "Top Gun: Maverick", "description": "Fighter plane"},
     "456": {
         "title": "Venom 2",
-        "description": "Superhero movie"
+        "description": "Superhero movies"
     },
     "1010": {"title": "Avenger: End Games", "description": "Action movie"},
     "789": {"title": "A Quiet Place", "description": "Scary monsters"},
