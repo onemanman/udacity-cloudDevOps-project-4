@@ -13,7 +13,7 @@ movies = {
     "110": {"title": "Fast and Furious", "description": "action movie"},
     "1102": {"title": "Transformer 1", "description": "Superhero movie"},
     "1108": {"title": "Dr Strange", "description": "Superhero movie"},
-    "1103": {"title": "Titanic", "description": "Drama movie"},
+    "1103": {"title": "Titanic", "description": "Dramas movie"},
 }
 
 
