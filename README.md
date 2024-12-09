@@ -7,8 +7,8 @@ You'll find 2 folders, one named `frontend` and one named `backend`, where each 
 ## Deliverables
 
 ### URL:
-1. [BackEnd](http://aea28eb216d33459f97cdacac1f5d28c-511848186.us-east-1.elb.amazonaws.com/movies)
-2. [FrontEnd](http://a4189352b2d684cbe9624de872e2151f-93734916.us-east-1.elb.amazonaws.com/)
+1. [BackEnd](http://a5e2c1a1a58a94acc8ce98bc264f0c07-1996016899.us-east-1.elb.amazonaws.com/movies)
+2. [FrontEnd](http://a1aec2f8b77254e148def3626f585655-716043298.us-east-1.elb.amazonaws.com/)
 ### Frontend
 
 1. A Continuous Integration workflow that:
